@@ -1,14 +1,14 @@
 <div align="center">
   
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Wahaj Alam
 
 ### Data Engineer | AI Graduate | Building Intelligence into Data Pipelines
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahaj-alam-68a784250)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahajalam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahaj.alam2000@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=wahajalam&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -16,13 +16,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Engineer** with a graduate degree in **Artificial Intelligence**, specializing in building scalable data pipelines and ML infrastructure. I transform raw data into actionable insights and deploy AI solutions that drive business value.
+I'm a passionate **Data Engineer** and **AI Graduate** from GIKI, specializing in building scalable ETL pipelines, BI solutions, and ML-powered applications. I transform raw data into actionable insights and deploy AI solutions that drive real business impact.
 
-- 🔭 Currently working on **real-time data streaming pipelines** and **MLOps automation**
-- 🌱 Exploring **LLMs**, **vector databases**, and **advanced RAG systems**
-- 💡 Interested in the intersection of **big data**, **machine learning**, and **cloud architecture**
-- 📚 Lifelong learner who loves solving complex data challenges
-- ⚡ Fun fact: I debug data pipelines faster than I debug my sleep schedule
+- 🔭 Currently working as **Data Engineer** at **Kaizen Paint Pakistan**, optimizing data workflows and financial reporting
+- 🎓 **BS in Artificial Intelligence** from Ghulam Ishaq Khan Institute (2021-2025)
+- 🌱 Exploring **LLMs**, **RAG systems**, and **Advanced Analytics**
+- 💡 Passionate about the intersection of **data engineering**, **machine learning**, and **business intelligence**
+- 🏆 **Associate Data Engineer** certified by DataCamp
+- ⚡ Fun fact: I automated away 50% of manual data checks and I'm still looking for more to optimize!
 
 ---
 
@@ -30,39 +31,42 @@ I'm a passionate **Data Engineer** with a graduate degree in **Artificial Intell
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### Data Engineering
+### Data Engineering & ETL
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### AI/ML
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-45B8AC?style=for-the-badge&logo=python&logoColor=white)
+
+### LLM & AI Tools
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Databases & Cloud
+![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
+![AX 2012](https://img.shields.io/badge/AX_2012-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Tools & Platforms
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![H2O AutoML](https://img.shields.io/badge/H2O_AutoML-FFE600?style=for-the-badge&logo=h2o&logoColor=black)
 
 ---
 
@@ -70,55 +74,88 @@ I'm a passionate **Data Engineer** with a graduate degree in **Artificial Intell
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 💼 Professional Experience
 
-### 🔥 [Real-Time Anomaly Detection Pipeline](https://github.com/yourusername/project1)
-End-to-end streaming pipeline using Kafka, Spark Streaming, and ML models for real-time fraud detection
-- **Tech**: Python, Kafka, Spark, PostgreSQL, Docker
-- ⭐ 120 stars
+### 🏢 Kaizen Paint Pakistan - Data Engineer
+**Oct 2025 - Present | Lahore, Pakistan**
 
-### 🤖 [MLOps Framework for Model Deployment](https://github.com/yourusername/project2)
-Automated ML pipeline with CI/CD, model versioning, and monitoring
-- **Tech**: MLflow, Airflow, AWS SageMaker, Kubernetes
-- ⭐ 85 stars
+- ⚡ Developed and optimized **SQL Server (SSMS)** queries and data models, improving performance for financial reporting
+- 🔄 Maintained **ETL Pipelines** automating data integration across multiple financial systems
+- 📊 Collaborated with finance teams to streamline reporting workflows and enhance data governance
 
-### 📈 [Data Lakehouse Architecture](https://github.com/yourusername/project3)
-Scalable data lakehouse implementation with Delta Lake and dbt transformations
-- **Tech**: Spark, Delta Lake, dbt, Snowflake
-- ⭐ 95 stars
+### 🎓 Kaizen Paint Pakistan - IT-BI Intern
+**Aug 2025 - Oct 2025 | Lahore, Pakistan**
+
+- 🚀 Migrated data from **AX-2012 to Dynamics 365** using Apache Spark to SQL conversion, reducing manual checks by **50%**
+- 📈 Designed **Power BI dashboards** for Finance & Sales, boosting reporting efficiency by **60%** across 5+ product categories
+- 🔧 Developed and optimized ETL pipelines for improved data integration
 
 ---
 
-## 📝 Latest Blog Posts
+## 🏆 Featured Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Data Pipelines with Apache Spark](your-blog-url)
-- [MLOps Best Practices: From Jupyter to Production](your-blog-url)
-- [Vector Databases: The Future of AI-Powered Search](your-blog-url)
-<!-- BLOG-POST-LIST:END -->
+### 🎥 [Transforming Virtual Meetings Using AI](https://github.com/wahajalam/project1) - *Final Year Project*
+AI-powered video conferencing tool with real-time bilingual capabilities
+- Built custom **Speech-to-Text** system (English/Urdu) using fine-tuned **SeamlessM4T** achieving **85% accuracy**
+- Automated **meeting summaries and minutes** generation using custom LLM pipelines
+- **Tech**: Python, SeamlessM4T, LLMs, NLP, Real-time Processing
+
+### 💳 [ML-Based Fraudulent Transaction Detection System](https://github.com/wahajalam/project2)
+Published research project for financial fraud detection
+- Achieved **99% accuracy** using CatBoost, Random Forest, and Decision Trees
+- **Published at ICIT 2024** and featured on **IEEExplore**
+- **Tech**: Python, Scikit-Learn, CatBoost, Feature Engineering
+
+### 📺 [YouTube Clickbait Impact Analysis](https://github.com/wahajalam/project3)
+ML & AutoML pipeline for predicting video performance
+- Scraped **4,000+ entries** using YouTube Data API
+- Achieved **86% accuracy** with Logistic Regression and **84%** with H2O AutoML
+- **Tech**: Python, YouTube API, H2O AutoML, Random Forest, Pandas
+
+### 🤖 [HR Medical Policy Chatbot](https://github.com/wahajalam/project4)
+RAG-based intelligent assistant for HR queries
+- Engineered AI chatbot using **LangChain** with **90% query resolution** success rate
+- Integrated **FAISS** vector database with **Google Gemini LLM**
+- Handles **1,000+ monthly queries**, reducing HR workload by **50%**
+- **Tech**: LangChain, FAISS, Google Gemini, RAG, NLP
+
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+![DataCamp](https://img.shields.io/badge/Associate_Data_Engineer-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+![DeepLearning.AI](https://img.shields.io/badge/Neural_Networks_&_Deep_Learning-DeepLearning.AI-0056D2?style=for-the-badge&logo=deeplearning&logoColor=white)
+
+</div>
+
+- 🏅 **Associate Data Engineer** - DataCamp
+- 🧠 **Neural Networks and Deep Learning** - DeepLearning.AI
+- 📄 **Research Publication** - ICIT 2024 (IEEExplore)
+- 🎯 **BS in Artificial Intelligence** - GIKI (2021-2025)
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always excited to collaborate on data engineering and AI projects, or just chat about the latest in tech!
+I'm always excited to collaborate on data engineering and AI projects, discuss the latest in tech, or explore new opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-medium-url)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahaj-alam-68a784250)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahajalam)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahaj.alam2000@gmail.com)
 
 </div>
 
@@ -126,8 +163,8 @@ I'm always excited to collaborate on data engineering and AI projects, or just c
 
 <div align="center">
   
-### 💻 "Data is the new oil, but pipelines are the refineries" 
+### 💻 "Turning data chaos into business clarity, one pipeline at a time" 
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/wahajalam/count.svg)
 
 </div>

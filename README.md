@@ -108,4 +108,176 @@ Currently Exploring:
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
+### 🔧 Data Engineering Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-0078D4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" />
+</p>
+
+### 📊 Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### 🧠 LLM & GenAI
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/H2O_AutoML-FFE600?style=for-the-badge&logo=h2o&logoColor=black" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📊 GitHub Stats - Race Statistics 🏁
+
+<div align="center">
+
+<!-- F1 Podium Style Stats -->
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=true&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&hide_border=true&background=0d1117&stroke=FF6D00&ring=FFD700&fire=FF6D00&currStreakLabel=FFD700&border_radius=10" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&hide_border=true&title_color=FF6D00&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="Top Languages" />
+</td>
+<td width="50%">
+
+### 🏆 Lap Times (Achievements)
+
+<p align="left">
+  🥇 <b>P1:</b> 99% ML Accuracy<br>
+  🥈 <b>P2:</b> 60% Efficiency Boost<br>
+  🥉 <b>P3:</b> 50% Automation Speed<br>
+  🏁 <b>Published:</b> IEEE Paper<br>
+  ⚡ <b>Fastest Lap:</b> 90% Query Resolution<br>
+  🔥 <b>Pole Position:</b> DataCamp Certified
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- F1-style Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&title=Stars,Followers,Commits,Repositories,Issues" />
+
+<br><br>
+
+<!-- Contribution Graph with F1 Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=🏎️%20Wahaj%27s%20Race%20Track%20-%20Contribution%20Graph&bg_color=0d1117&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎥 Transforming Virtual Meetings Using AI
+*Final Year Project*
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-85%25-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Level-Expert-orange?style=flat-square" />
+
+**AI-powered bilingual speech-to-text system**
+
+- 🔥 Custom STT (English/Urdu) using **SeamlessM4T**
+- ⚡ 85% accuracy in real-time transcription
+- 🌀 Automated meeting summaries with LLM
+- 🦊 Advanced NLP pipeline integration
+
+**Tech Stack:** Python • SeamlessM4T • LLMs • NLP
+
+</td>
+<td width="50%">
+
+### 💳 ML-Based Fraudulent Detection System
+*Published Research*
+
+<img src="https://img.shields.io/badge/Status-Published-gold?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-99%25-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Level-Master-red?style=flat-square" />
+
+**Advanced fraud detection for financial transactions**
+
+- 🔥 **99% accuracy** with ensemble methods
+- 📜 Published at **ICIT 2024** (IEEExplore)
+- ⚡ CatBoost, Random Forest, Decision Trees
+- 🎯 Advanced feature engineering
+
+**Tech Stack:** Python • Scikit-Learn • CatBoost • Pandas
+
+📄 [Read Paper](#) | ⭐ [View Code](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📺 YouTube Clickbait Impact Analysis
+*ML & AutoML Project*
+
+<img src="https://img.shields.io/badge/Status-Completed-

@@ -1,28 +1,46 @@
 <div align="center">
 
-<!-- Naruto-inspired header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20,24,27&height=200&section=header&text=Wahaj%20Alam&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20|%20AI%20Graduate%20|%20Anime%20Enthusiast&descAlignY=55&descSize=20" />
+<!-- Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=250&section=header&text=Wahaj%20Alam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20AI%20Graduate&descAlignY=58&descSize=25" />
 
-<!-- Animated Pokémon -->
-<img align="left" height="150" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-<img align="right" height="150" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
+<!-- Animated Code Matrix -->
+<img align="left" height="180" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix" />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6D00&center=true&vCenter=true&width=940&lines=Data+Engineer+%7C+AI+Graduate;Building+Intelligence+into+Pipelines;99%25+Accuracy+in+ML+Models;Believe+it!+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+AI+Graduate;Building+Intelligence+into+Data+Pipelines;99%25+ML+Accuracy+%7C+60%25+Efficiency+Boost;Transforming+Data+Chaos+into+Business+Clarity;Published+Researcher+%7C+DataCamp+Certified" alt="Typing SVG" />
 
+<br>
+
+<!-- Social Badges with Custom Styling -->
 <p align="center">
-  <a href="https://linkedin.com/in/wahaj-alam-68a784250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/wahajalam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:wahaj.alam2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF6D00?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/wahaj-alam-68a784250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://github.com/wahajalam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+  <a href="mailto:wahaj.alam2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
+  </a>
 </p>
 
+<!-- Profile Stats with Enhanced Design -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahajalam&label=Profile%20views&color=red&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/wahajalam?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/wahajalam?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=wahajalam&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/wahajalam?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0D1117&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/wahajalam?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github" alt="stars" />
 </p>
+
+<br>
+
+<!-- Horizontal Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 

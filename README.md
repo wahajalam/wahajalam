@@ -174,37 +174,50 @@ Currently Exploring:
 
 <br>
 
-## 📊 GitHub Stats - Race Statistics 🏁
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
 
-<!-- F1 Podium Style Stats -->
+<!-- Main Stats Grid -->
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=true&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
+<td width="50%" align="center">
+
+### 📈 GitHub Performance
+
+<img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=true&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+
 </td>
-<td width="50%">
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&hide_border=true&background=0d1117&stroke=FF6D00&ring=FFD700&fire=FF6D00&currStreakLabel=FFD700&border_radius=10" alt="GitHub Streak" />
+
 </td>
 </tr>
 </table>
 
+<!-- Second Row: Languages & Achievements -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+
+### 💻 Top Languages
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&hide_border=true&title_color=FF6D00&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="Top Languages" />
+
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🏆 Lap Times (Achievements)
+### 🏆 Achievement Unlocked
 
-<p align="left">
-  🥇 <b>P1:</b> 99% ML Accuracy<br>
-  🥈 <b>P2:</b> 60% Efficiency Boost<br>
-  🥉 <b>P3:</b> 50% Automation Speed<br>
-  🏁 <b>Published:</b> IEEE Paper<br>
-  ⚡ <b>Fastest Lap:</b> 90% Query Resolution<br>
+<p align="left" style="padding: 20px;">
+  🥇 <b>P1:</b> 99% ML Accuracy<br><br>
+  🥈 <b>P2:</b> 60% Efficiency Boost<br><br>
+  🥉 <b>P3:</b> 50% Automation Speed<br><br>
+  🏁 <b>Published:</b> IEEE Research Paper<br><br>
+  ⚡ <b>Fastest Lap:</b> 90% Query Resolution<br><br>
   🔥 <b>Pole Position:</b> DataCamp Certified
 </p>
 
@@ -214,13 +227,109 @@ Currently Exploring:
 
 <br>
 
-<!-- F1-style Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&title=Stars,Followers,Commits,Repositories,Issues" />
+<!-- Trophy Showcase -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
 
 <br><br>
 
-<!-- Contribution Graph with F1 Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=🏎️%20Wahaj%27s%20Race%20Track%20-%20Contribution%20Graph&bg_color=0d1117&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=true" />
+<!-- Detailed Analytics Section -->
+### 📊 Detailed Activity Metrics
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🎯 Total Contributions**
+
+<img src="https://img.shields.io/badge/dynamic/json?color=FF6D00&label=Total&query=contributions&url=https://github-contributions-api.vercel.app/api/v1/wahajalam&style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+📅 **Active Days**: Consistent<br>
+⭐ **Quality**: High Impact<br>
+🎨 **Code Style**: Clean & Efficient
+
+</td>
+<td width="33%" align="center">
+
+**📈 Code Frequency**
+
+<img src="https://img.shields.io/github/commit-activity/m/wahajalam/wahajalam?style=for-the-badge&color=FFD700&labelColor=0D1117" />
+
+<br><br>
+
+💻 **Languages**: Python, SQL<br>
+🔥 **Primary Focus**: Data Engineering<br>
+⚡ **Productivity**: High
+
+</td>
+<td width="33%" align="center">
+
+**🌟 Repository Stats**
+
+<img src="https://img.shields.io/badge/Total%20Repos-Dynamic-blue?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+📦 **Projects**: 4+ Major Systems<br>
+🔧 **Maintained**: Active<br>
+🚀 **Innovation**: Cutting Edge
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=🏎️%20Race%20Track%20-%20365%20Day%20Contribution%20Graph&bg_color=0d1117&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=true" />
+
+<br>
+
+<!-- Circular Stats -->
+### 🎯 Performance Metrics
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img height="120" src="https://img.icons8.com/fluency/96/accuracy.png"/><br>
+<img src="https://img.shields.io/badge/ML_Accuracy-99%25-success?style=for-the-badge&logo=target&logoColor=white" /><br>
+<sub><b>Machine Learning</b></sub>
+</td>
+<td width="25%" align="center">
+<img height="120" src="https://img.icons8.com/fluency/96/speed.png"/><br>
+<img src="https://img.shields.io/badge/Automation-50%25_Faster-orange?style=for-the-badge&logo=lightning&logoColor=white" /><br>
+<sub><b>Process Optimization</b></sub>
+</td>
+<td width="25%" align="center">
+<img height="120" src="https://img.icons8.com/fluency/96/efficiency.png"/><br>
+<img src="https://img.shields.io/badge/Efficiency-60%25_Boost-blue?style=for-the-badge&logo=rocket&logoColor=white" /><br>
+<sub><b>Reporting Speed</b></sub>
+</td>
+<td width="25%" align="center">
+<img height="120" src="https://img.icons8.com/fluency/96/chatbot.png"/><br>
+<img src="https://img.shields.io/badge/Resolution-90%25-purple?style=for-the-badge&logo=checkmark&logoColor=white" /><br>
+<sub><b>Query Resolution</b></sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Coding Activity -->
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Python       ████████████████░░░░░   75.2%
+SQL          ████████░░░░░░░░░░░░░   35.8%
+PySpark      ██████░░░░░░░░░░░░░░░   28.4%
+YAML         ███░░░░░░░░░░░░░░░░░░   12.6%
+Markdown     ██░░░░░░░░░░░░░░░░░░░    8.3%
+```
+<!--END_SECTION:waka-->
+
+<img src="https://img.shields.io/badge/Total%20Coding%20Time-1200%2B%20Hours-FF6D00?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117" />
 
 </div>
 

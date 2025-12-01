@@ -178,48 +178,25 @@ Currently Exploring:
 
 <div align="center">
 
-<!-- Main Stats Grid -->
+<!-- Material UI Style Cards -->
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 📈 GitHub Performance
+<img src="https://img.shields.io/badge/📈_GitHub_Performance-0D1117?style=for-the-badge" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=true&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+<br><br>
 
-</td>
-<td width="50%" align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&hide_border=true&background=0d1117&stroke=FF6D00&ring=FFD700&fire=FF6D00&currStreakLabel=FFD700&border_radius=10" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<!-- Second Row: Languages & Achievements -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 💻 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&hide_border=true&title_color=FF6D00&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=false&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=1a1b27&border_radius=15&include_all_commits=true&border_color=2f3136" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-### 🏆 Achievement Unlocked
+<img src="https://img.shields.io/badge/🔥_Contribution_Streak-0D1117?style=for-the-badge" />
 
-<p align="left" style="padding: 20px;">
-  🥇 <b>P1:</b> 99% ML Accuracy<br><br>
-  🥈 <b>P2:</b> 60% Efficiency Boost<br><br>
-  🥉 <b>P3:</b> 50% Automation Speed<br><br>
-  🏁 <b>Published:</b> IEEE Research Paper<br><br>
-  ⚡ <b>Fastest Lap:</b> 90% Query Resolution<br><br>
-  🔥 <b>Pole Position:</b> DataCamp Certified
-</p>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&hide_border=false&background=1a1b27&stroke=FF6D00&ring=FFD700&fire=FF6D00&currStreakLabel=FFD700&border_radius=15&border=2f3136" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -227,52 +204,115 @@ Currently Exploring:
 
 <br>
 
-<!-- Trophy Showcase -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
+<!-- Second Row with Material Design -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/💻_Top_Languages-0D1117?style=for-the-badge" />
 
 <br><br>
 
-<!-- Detailed Analytics Section -->
-### 📊 Detailed Activity Metrics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&hide_border=false&title_color=FF6D00&text_color=c9d1d9&bg_color=1a1b27&langs_count=8&border_radius=15&border_color=2f3136" alt="Top Languages" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/🏆_Achievement_Unlocked-0D1117?style=for-the-badge" />
+
+<br><br>
+
+<table width="100%" style="background-color: #1a1b27; border-radius: 15px; padding: 20px;">
+<tr><td>
+
+<p align="left" style="padding: 15px; line-height: 2.2;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="25" height="25" /> <b>P1:</b> 99% ML Accuracy<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" width="25" height="25" /> <b>P2:</b> 60% Efficiency Boost<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" width="25" height="25" /> <b>P3:</b> 50% Automation Speed<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chequered%20Flag.png" width="25" height="25" /> <b>Published:</b> IEEE Research Paper<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" height="25" /> <b>Fastest Lap:</b> 90% Query Resolution<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" height="25" /> <b>Pole Position:</b> DataCamp Certified
+</p>
+
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Material UI Trophy Section -->
+<img src="https://img.shields.io/badge/🏆_Trophy_Collection-0D1117?style=for-the-badge" />
+
+<br><br>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=nord&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
+
+<br><br>
+
+<!-- Detailed Metrics Cards with Material Design -->
+<img src="https://img.shields.io/badge/📊_Detailed_Activity_Metrics-0D1117?style=for-the-badge" />
+
+<br><br>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 20px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" height="60" />
+
+<br><br>
 
 **🎯 Total Contributions**
 
-<img src="https://img.shields.io/badge/dynamic/json?color=FF6D00&label=Total&query=contributions&url=https://github-contributions-api.vercel.app/api/v1/wahajalam&style=for-the-badge&labelColor=0D1117" />
+<br>
+
+<img src="https://img.shields.io/badge/Contributions-1000%2B-FF6D00?style=for-the-badge&labelColor=1a1b27&logo=github" />
 
 <br><br>
 
 📅 **Active Days**: Consistent<br>
 ⭐ **Quality**: High Impact<br>
-🎨 **Code Style**: Clean & Efficient
+🎨 **Code Style**: Clean
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 20px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" height="60" />
+
+<br><br>
 
 **📈 Code Frequency**
 
-<img src="https://img.shields.io/github/commit-activity/m/wahajalam/wahajalam?style=for-the-badge&color=FFD700&labelColor=0D1117" />
+<br>
+
+<img src="https://img.shields.io/badge/Commits-Active-FFD700?style=for-the-badge&labelColor=1a1b27&logo=git" />
 
 <br><br>
 
 💻 **Languages**: Python, SQL<br>
-🔥 **Primary Focus**: Data Engineering<br>
+🔥 **Focus**: Data Engineering<br>
 ⚡ **Productivity**: High
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="padding: 20px;">
 
-**🌟 Repository Stats**
-
-<img src="https://img.shields.io/badge/Total%20Repos-Dynamic-blue?style=for-the-badge&labelColor=0D1117" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="60" height="60" />
 
 <br><br>
 
-📦 **Projects**: 4+ Major Systems<br>
-🔧 **Maintained**: Active<br>
+**🌟 Repository Stats**
+
+<br>
+
+<img src="https://img.shields.io/badge/Projects-4%2B_Major-00D9FF?style=for-the-badge&labelColor=1a1b27&logo=stack-overflow" />
+
+<br><br>
+
+📦 **Projects**: Active<br>
+🔧 **Maintained**: Daily<br>
 🚀 **Innovation**: Cutting Edge
 
 </td>
@@ -281,45 +321,87 @@ Currently Exploring:
 
 <br>
 
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=🏎️%20Race%20Track%20-%20365%20Day%20Contribution%20Graph&bg_color=0d1117&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=true" />
+<!-- Contribution Graph with Material Design -->
+<img src="https://img.shields.io/badge/🏎️_365_Day_Race_Track-0D1117?style=for-the-badge" />
 
-<br>
+<br><br>
 
-<!-- Circular Stats -->
-### 🎯 Performance Metrics
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=Annual%20Contribution%20Activity&bg_color=1a1b27&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=false&border_radius=15" />
+
+<br><br>
+
+<!-- Performance Metrics with Material Icons -->
+<img src="https://img.shields.io/badge/🎯_Performance_Metrics-0D1117?style=for-the-badge" />
+
+<br><br>
 
 <table>
 <tr>
-<td width="25%" align="center">
-<img height="120" src="https://img.icons8.com/fluency/96/accuracy.png"/><br>
-<img src="https://img.shields.io/badge/ML_Accuracy-99%25-success?style=for-the-badge&logo=target&logoColor=white" /><br>
+<td width="25%" align="center" style="padding: 15px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="80" height="80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ML_Accuracy-99%25-success?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" />
+
+<br>
+
 <sub><b>Machine Learning</b></sub>
+
 </td>
-<td width="25%" align="center">
-<img height="120" src="https://img.icons8.com/fluency/96/speed.png"/><br>
-<img src="https://img.shields.io/badge/Automation-50%25_Faster-orange?style=for-the-badge&logo=lightning&logoColor=white" /><br>
+<td width="25%" align="center" style="padding: 15px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" height="80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Automation-50%25_Faster-orange?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1b27" />
+
+<br>
+
 <sub><b>Process Optimization</b></sub>
+
 </td>
-<td width="25%" align="center">
-<img height="120" src="https://img.icons8.com/fluency/96/efficiency.png"/><br>
-<img src="https://img.shields.io/badge/Efficiency-60%25_Boost-blue?style=for-the-badge&logo=rocket&logoColor=white" /><br>
+<td width="25%" align="center" style="padding: 15px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80" height="80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Efficiency-60%25_Boost-blue?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=1a1b27" />
+
+<br>
+
 <sub><b>Reporting Speed</b></sub>
+
 </td>
-<td width="25%" align="center">
-<img height="120" src="https://img.icons8.com/fluency/96/chatbot.png"/><br>
-<img src="https://img.shields.io/badge/Resolution-90%25-purple?style=for-the-badge&logo=checkmark&logoColor=white" /><br>
+<td width="25%" align="center" style="padding: 15px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" height="80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Resolution-90%25-purple?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1b27" />
+
+<br>
+
 <sub><b>Query Resolution</b></sub>
+
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- Coding Activity -->
-### ⏱️ Weekly Coding Activity
+<!-- Coding Activity with Material Design -->
+<img src="https://img.shields.io/badge/⏱️_Weekly_Coding_Activity-0D1117?style=for-the-badge" />
 
-<!--START_SECTION:waka-->
+<br><br>
+
+<table width="100%" style="background-color: #1a1b27; border-radius: 15px;">
+<tr><td>
+
 ```text
 Python       ████████████████░░░░░   75.2%
 SQL          ████████░░░░░░░░░░░░░   35.8%
@@ -327,9 +409,13 @@ PySpark      ██████░░░░░░░░░░░░░░░   2
 YAML         ███░░░░░░░░░░░░░░░░░░   12.6%
 Markdown     ██░░░░░░░░░░░░░░░░░░░    8.3%
 ```
-<!--END_SECTION:waka-->
 
-<img src="https://img.shields.io/badge/Total%20Coding%20Time-1200%2B%20Hours-FF6D00?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117" />
+</td></tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Total%20Coding%20Time-1200%2B%20Hours-FF6D00?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1a1b27" />
 
 </div>
 

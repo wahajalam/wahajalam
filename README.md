@@ -300,7 +300,6 @@ Currently Exploring:
 🤖 90%    Query Resolution Rate (AI Chatbot)
 🎤 85%    Accuracy in Bilingual Speech-to-Text
 📄 1      Research Paper Published (IEEExplore)
-🎓 4.0    GPA in AI Degree Program
 ```
 
 </div>

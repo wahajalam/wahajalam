@@ -226,48 +226,54 @@ class WahajAlam:
 
 <br>
 
-## 🚀 Featured Projects - My Ultimate Jutsus! 🎯
+## 🚀 Featured Projects - Ultimate Arsenal! 🎯
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎥 Sharingan Vision: AI Meetings
+### 🎥 Transforming Virtual Meetings Using AI
 *Final Year Project* 🍥
 
-<img src="https://img.shields.io/badge/Status-Legendary-red?style=flat-square&logo=naruto" />
-<img src="https://img.shields.io/badge/Power-85%25-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Rank-S--Rank-red?style=flat-square&logo=statuspage" />
+<img src="https://img.shields.io/badge/Accuracy-85%25-orange?style=flat-square&logo=target" />
+<img src="https://img.shields.io/badge/Type-Fire--Electric-yellow?style=flat-square" />
 
-**Copy Ninja technique for virtual meetings!**
+**AI-powered bilingual speech-to-text system**
 
-- 🔥 Built custom STT jutsu (English/Urdu)
-- ⚡ 85% accuracy using **SeamlessM4T**
-- 🌀 Rasengan-level meeting summaries
-- 🦊 Custom LLM pipeline mastery
+- 🔥 Custom STT (English/Urdu) using **SeamlessM4T**
+- ⚡ 85% accuracy in real-time transcription
+- 🌀 Automated meeting summaries with LLM
+- 🦊 Advanced NLP pipeline integration
 
-**Jutsu Arsenal:** Python • SeamlessM4T • LLMs • NLP
+**Tech Stack:** Python • SeamlessM4T • LLMs • NLP
 
-🎯 [Use This Jutsu](#)
+<img src="https://img.shields.io/badge/Jutsu-Kage_Bunshin-FF6D00?style=flat" />
+<img src="https://img.shields.io/badge/Pokémon-Psychic-purple?style=flat" />
 
 </td>
 <td width="50%">
 
-### 💳 Byakugan: Fraud Detection
+### 💳 ML-Based Fraudulent Detection System
 *Published Research* 📜
 
-<img src="https://img.shields.io/badge/Status-Published-success?style=flat-square&logo=ieee" />
-<img src="https://img.shields.io/badge/Power-99%25-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Rank-Legendary-gold?style=flat-square&logo=ieee" />
+<img src="https://img.shields.io/badge/Accuracy-99%25-blue?style=flat-square&logo=target" />
+<img src="https://img.shields.io/badge/Type-Dragon--Fighting-red?style=flat-square" />
 
-**All-seeing eye for financial transactions!**
+**Advanced fraud detection for financial transactions**
 
-- 🔥 **99% accuracy** - Ultimate power!
-- 📜 Published at **ICIT 2024** (IEEE)
-- ⚡ CatBoost, Random Forest techniques
-- 🎯 Elite ninja-level feature engineering
+- 🔥 **99% accuracy** with ensemble methods
+- 📜 Published at **ICIT 2024** (IEEExplore)
+- ⚡ CatBoost, Random Forest, Decision Trees
+- 🎯 Advanced feature engineering
 
-**Jutsu Arsenal:** Python • Scikit-Learn • CatBoost
+**Tech Stack:** Python • Scikit-Learn • CatBoost • Pandas
 
-📄 [Read Scroll](#) | ⭐ [Learn Technique](#)
+<img src="https://img.shields.io/badge/Jutsu-Byakugan-FF6D00?style=flat" />
+<img src="https://img.shields.io/badge/Pokémon-Dark-black?style=flat" />
+
+📄 [Read Paper](#) | ⭐ [View Code](#)
 
 </td>
 </tr>
@@ -275,42 +281,46 @@ class WahajAlam:
 <tr>
 <td width="50%">
 
-### 📺 Substitution Jutsu: YouTube Analysis
+### 📺 YouTube Clickbait Impact Analysis
 *ML & AutoML Project* 🎯
 
-<img src="https://img.shields.io/badge/Status-S_Rank-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Power-86%25-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Rank-A--Rank-orange?style=flat-square&logo=youtube" />
+<img src="https://img.shields.io/badge/Accuracy-86%25-green?style=flat-square&logo=target" />
+<img src="https://img.shields.io/badge/Type-Grass--Steel-green?style=flat-square" />
 
-**Shadow clone technique for data analysis!**
+**Predicting video performance using ML & AutoML**
 
-- 🌀 Scraped 4,000+ videos (Multi Shadow Clone)
+- 🌀 Scraped 4,000+ videos using YouTube API
 - ⚡ 86% accuracy with Logistic Regression
-- 🔥 84% with H2O AutoML
-- 🎯 Kakashi-level strategic insights
+- 🔥 84% accuracy with H2O AutoML
+- 🎯 Data-driven insights on clickbait patterns
 
-**Jutsu Arsenal:** Python • H2O AutoML • YouTube API
+**Tech Stack:** Python • H2O AutoML • YouTube API • Pandas
 
-🚀 [Deploy Technique](#)
+<img src="https://img.shields.io/badge/Jutsu-Rasengan-FF6D00?style=flat" />
+<img src="https://img.shields.io/badge/Pokémon-Normal-gray?style=flat" />
 
 </td>
 <td width="50%">
 
-### 🤖 Summoning Jutsu: HR Chatbot
+### 🤖 HR Medical Policy Chatbot
 *RAG-Based AI Assistant* 🐸
 
-<img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Power-90%25-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Rank-S--Rank-success?style=flat-square&logo=robot" />
+<img src="https://img.shields.io/badge/Resolution-90%25-blue?style=flat-square&logo=target" />
+<img src="https://img.shields.io/badge/Type-Fairy--Electric-pink?style=flat-square" />
 
-**Summon intelligent responses instantly!**
+**Intelligent chatbot for HR query automation**
 
-- 🔥 90% query resolution (Toad Sage level)
-- ⚡ 1,000+ monthly summons
-- 🌀 50% chakra (workload) reduction
-- 🦊 FAISS + Gemini combo attack
+- 🔥 90% query resolution success rate
+- ⚡ Handles 1,000+ monthly queries
+- 🌀 50% reduction in HR workload
+- 🦊 FAISS vector DB + Google Gemini LLM
 
-**Jutsu Arsenal:** LangChain • FAISS • Google Gemini
+**Tech Stack:** LangChain • FAISS • Google Gemini • RAG
 
-🎯 [Summon Now](#)
+<img src="https://img.shields.io/badge/Jutsu-Kuchiyose-FF6D00?style=flat" />
+<img src="https://img.shields.io/badge/Pokémon-Psychic-purple?style=flat" />
 
 </td>
 </tr>
@@ -321,54 +331,111 @@ class WahajAlam:
 
 <br>
 
-## 🎓 Certifications & Village Rankings 🏆
+## 🎓 Certifications & Achievements 🏆
 
 <div align="center">
 
-<!-- Pokémon Badge Style -->
+<!-- Pokémon Gym Badge Collection -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Gym+Badges+Collected!+⚡🔥💧;Ninja+Rank%3A+Elite+Jonin+🍥;F1+Championship+Points%3A+P1+🏎️" alt="Badges" />
+
+<br><br>
+
+<!-- Main Badges with Pokémon Theme -->
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img height="80" src="https://img.icons8.com/color/96/000000/pokemon.png"/><br>
-      <img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" /><br>
-      <b>⚡ Thunder Badge</b><br>
-      <sub>Associate Data Engineer</sub>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/color/96/000000/lightning-bolt.png"/><br>
+      <img src="https://img.shields.io/badge/⚡_Thunder_Badge-FFD700?style=for-the-badge&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" /><br>
+      <b>Associate Data Engineer</b><br>
+      <sub>⚡ Electric-Type Master</sub>
     </td>
-    <td align="center" width="33%">
-      <img height="80" src="https://img.icons8.com/color/96/000000/pokeball.png"/><br>
-      <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /><br>
-      <b>🔥 Volcano Badge</b><br>
-      <sub>Neural Networks Master</sub>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/color/96/000000/fire-element.png"/><br>
+      <img src="https://img.shields.io/badge/🔥_Volcano_Badge-FF6D00?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=flat-square&logo=coursera&logoColor=white" /><br>
+      <b>Neural Networks & DL</b><br>
+      <sub>🔥 Fire-Type Expert</sub>
     </td>
-    <td align="center" width="33%">
-      <img height="80" src="https://img.icons8.com/color/96/000000/trophy.png"/><br>
-      <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /><br>
-      <b>🏆 Earth Badge</b><br>
-      <sub>Published Researcher</sub>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/color/96/000000/earth-planet.png"/><br>
+      <img src="https://img.shields.io/badge/🌍_Earth_Badge-8B4513?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" /><br>
+      <b>Published Research</b><br>
+      <sub>🌍 Ground-Type Champion</sub>
+    </td>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/color/96/000000/brain.png"/><br>
+      <img src="https://img.shields.io/badge/🧠_Mind_Badge-9370DB?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GIKI-0078D4?style=flat-square&logo=graduation-cap&logoColor=white" /><br>
+      <b>BS in AI</b><br>
+      <sub>🧠 Psychic-Type Elite</sub>
     </td>
   </tr>
 </table>
 
-### 🏅 Ninja Rankings & F1 Championships
+<br>
+
+<!-- Additional Naruto Headband Badges -->
+<img src="https://img.shields.io/badge/🍥_Leaf_Village-Hokage_Candidate-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌀_Rasengan-Mastered-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🦊_Nine--Tails-Sage_Mode-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👁️_Sharingan-Activated-red?style=for-the-badge" />
+
+<br><br>
+
+<!-- Pokémon Type Badges -->
+<p>
+  <img src="https://img.shields.io/badge/⚡_Electric_Type-Python_Master-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_Fire_Type-ML_Expert-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/💧_Water_Type-Data_Flow-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌿_Grass_Type-Growth_Mindset-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌑_Dark_Type-Deep_Learning-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/✨_Fairy_Type-AI_Magic-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔩_Steel_Type-Pipeline_Builder-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠_Psychic_Type-LLM_Trainer-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐉_Dragon_Type-99%25_Accuracy-crimson?style=flat-square" />
+</p>
+
+<br>
+
+<!-- F1 Championship Badges -->
+<img src="https://img.shields.io/badge/🏎️_Pole_Position-SQL_Optimization-FF1801?style=for-the-badge&logo=f1" />
+<img src="https://img.shields.io/badge/🏁_Fastest_Lap-ETL_Pipelines-00D2BE?style=for-the-badge&logo=f1" />
+<img src="https://img.shields.io/badge/🥇_Podium_Finish-Power_BI_Expert-F2C811?style=for-the-badge&logo=f1" />
+
+<br><br>
+
+### 🏅 Elite Four Challenge Completed
 
 ```
 ═══════════════════════════════════════════════════════════
-🥷 NINJA RANK: Jonin (Elite Data Engineer)
-🏎️ F1 POSITION: Podium Finisher (Top 3%)
+🥷 NINJA RANK: Elite Jonin (S-Class Data Engineer)
+🏎️ F1 SEASON: Championship Contender (Top 3%)
+⚡ POKÉDEX: 18/18 Types Mastered
+🍥 VILLAGE: Hidden Leaf Institute (GIKI)
 ═══════════════════════════════════════════════════════════
 
-Mission Stats:
-  🎯 S-Rank Missions:    4 Completed
-  ⚡ Fastest Lap:        99% ML Accuracy
-  🔥 Chakra Control:     50% Automation Boost
-  💨 Speed Stat:         60% Efficiency UP
-  📜 Scrolls Published:  1 IEEE Paper
-  🏆 Championships Won:  DataCamp Certified
+Achievement Unlocked:
+  🎯 S-Rank Missions:      4 Legendary Projects Completed
+  ⚡ Fastest Lap Time:     99% ML Accuracy Achievement
+  🔥 Fire Release:         50% Process Automation Boost
+  💨 Lightning Style:      60% Reporting Speed Increase
+  📜 Sacred Scrolls:       1 IEEE Publication (ICIT 2024)
+  🏆 Grand Prix Wins:      DataCamp + DeepLearning.AI
+  ⚡ Gym Badges:           4/8 Elite Badges Collected
   
-Team Affiliations:
-  🍥 Village Hidden in Data: GIKI Institute
-  🏎️ Racing Team: Kaizen Paint Pakistan
-  ⚡ Pokémon League: AI Graduate Division
+Power Stats:
+  HP:    ████████████████████████ 200/200  (Max)
+  ATK:   ████████████████████████ 99/100   (ML Accuracy)
+  DEF:   ███████████████████████  90/100   (Error Handling)
+  SPEED: ███████████████████████  92/100   (Automation)
+  SP.ATK:████████████████████████ 95/100   (Innovation)
+  
+Current Team:
+  🍥 Naruto (Leadership)    🏎️ Lewis Hamilton (Speed)
+  ⚡ Pikachu (Electric)     🔥 Charizard (Fire Power)
+  🧠 Alakazam (Intelligence) 🐉 Dragonite (Excellence)
 ═══════════════════════════════════════════════════════════
 ```
 

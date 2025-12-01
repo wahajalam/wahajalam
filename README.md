@@ -280,4 +280,162 @@ Currently Exploring:
 ### 📺 YouTube Clickbait Impact Analysis
 *ML & AutoML Project*
 
-<img src="https://img.shields.io/badge/Status-Completed-
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-86%25-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Level-Advanced-orange?style=flat-square" />
+
+**Predicting video performance using ML & AutoML**
+
+- 🌀 Scraped 4,000+ videos using YouTube API
+- ⚡ 86% accuracy with Logistic Regression
+- 🔥 84% accuracy with H2O AutoML
+- 🎯 Data-driven insights on clickbait patterns
+
+**Tech Stack:** Python • H2O AutoML • YouTube API • Pandas
+
+</td>
+<td width="50%">
+
+### 🤖 HR Medical Policy Chatbot
+*RAG-Based AI Assistant*
+
+<img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Resolution-90%25-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Level-Expert-purple?style=flat-square" />
+
+**Intelligent chatbot for HR query automation**
+
+- 🔥 90% query resolution success rate
+- ⚡ Handles 1,000+ monthly queries
+- 🌀 50% reduction in HR workload
+- 🦊 FAISS vector DB + Google Gemini LLM
+
+**Tech Stack:** LangChain • FAISS • Google Gemini • RAG
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+<!-- Pokémon Gym Badge Collection -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Achievement+Badges+Collected!+⚡🔥💧;Elite+Level+Unlocked!+🏆" alt="Badges" />
+
+<br><br>
+
+<!-- Main Badges -->
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png"/><br>
+      <img src="https://img.shields.io/badge/⚡_Thunder_Badge-FFD700?style=for-the-badge&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" /><br>
+      <b>Associate Data Engineer</b><br>
+      <sub>Elite Data Engineering</sub>
+    </td>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/fluency/96/000000/fire-element.png"/><br>
+      <img src="https://img.shields.io/badge/🔥_Volcano_Badge-FF6D00?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=flat-square&logo=coursera&logoColor=white" /><br>
+      <b>Neural Networks & DL</b><br>
+      <sub>Deep Learning Master</sub>
+    </td>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/fluency/96/000000/earth-planet.png"/><br>
+      <img src="https://img.shields.io/badge/🌍_Earth_Badge-8B4513?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" /><br>
+      <b>Published Research</b><br>
+      <sub>Research Champion</sub>
+    </td>
+    <td align="center" width="25%">
+      <img height="100" src="https://img.icons8.com/fluency/96/000000/brain.png"/><br>
+      <img src="https://img.shields.io/badge/🧠_Mind_Badge-9370DB?style=for-the-badge&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GIKI-0078D4?style=flat-square&logo=graduation-cap&logoColor=white" /><br>
+      <b>BS in AI</b><br>
+      <sub>AI Graduate</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Achievement Stats -->
+### 🏅 Achievement Stats
+
+```
+═══════════════════════════════════════════════════════════
+Level: Elite Professional | Rank: S-Class Engineer
+═══════════════════════════════════════════════════════════
+
+Core Stats:
+  🎯 Projects Completed:       4 Major Systems
+  ⚡ ML Accuracy:              99% Peak Performance
+  🔥 Automation Boost:         50% Efficiency Gain
+  💨 Reporting Speed:          60% Faster Insights
+  📜 Publications:             1 IEEE Paper (ICIT 2024)
+  🏆 Certifications:           DataCamp + DeepLearning.AI
+  ⚡ Badges Collected:         4/8 Elite Badges
+  
+Power Levels:
+  HP:     ████████████████████████ 200/200  (Max)
+  Attack: ████████████████████████ 99/100   (ML Accuracy)
+  Defense:███████████████████████  90/100   (Error Handling)
+  Speed:  ███████████████████████  92/100   (Automation)
+  Special:████████████████████████ 95/100   (Innovation)
+  
+Achievement Path:
+  Intern → Data Engineer → AI Specialist → Future Leader
+═══════════════════════════════════════════════════════════
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/wahaj-alam-68a784250">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/wahajalam">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:wahaj.alam2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+### 💭 Daily Motivation
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+### 💻 *"Turning data chaos into business clarity, one pipeline at a time"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=100&section=footer" />
+
+**⭐ Star my repositories if you find them interesting!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=wahajalam&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>

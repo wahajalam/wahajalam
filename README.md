@@ -40,9 +40,23 @@ class WahajAlam:
 
     def achievements(self):
         return "99% ML Accuracy • IEEE ICIT 2024 Published • 60% Efficiency Boost • 90% HR Query Resolution"
-Current Role,Education
-Data Engineer @ Kaizen Paint Pakistan,BS Artificial Intelligence – GIKI '25
 
+
+🔥 Quick Highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current RoleEducationData Engineer @ Kaizen Paint PakistanBS Artificial Intelligence – GIKI '25
 Recent Wins
 
 Reduced manual work by 50%

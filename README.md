@@ -7,7 +7,7 @@
 
 <!-- Animated Welcome Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Data+Engineer+%7C+AI+Graduate;Building+Intelligent+Data+Pipelines+%F0%9F%9A%80;99%25+ML+Accuracy+%7C+Published+Researcher;Transforming+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Data+Engineer+%7C+AI+Graduate;Building+Intelligent+Data+Pipelines+%F0%9F%9A%80;99%25+ML+Accuracy+%7C+Published;Transforming+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- Decorative Line -->

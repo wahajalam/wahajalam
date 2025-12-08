@@ -377,43 +377,117 @@ GIKI (2021-2025)
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🎮+Pokemon+Gym+Badges+Collected!;⚡+Elite+Four+Champion+Level!;🏆+Achievement+Unlocked!" alt="Pokemon Badges" />
+
+<br><br>
+
+<!-- Pokemon Gym Badges -->
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="60" />
+<td align="center" width="20%">
+<img src="https://archives.bulbagarden.net/media/upload/f/f4/Thunder_Badge.png" width="90" />
 <br><br>
-<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_Thunder_Badge-FFD700?style=for-the-badge&logoColor=black" />
 <br><br>
+<img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" />
+<br>
 <b>Associate Data Engineer</b>
 <br>
-<sub>ETL • Data Pipelines • SQL</sub>
+<sub>⚡ Master of ETL & Pipelines</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60" />
+<td align="center" width="20%">
+<img src="https://archives.bulbagarden.net/media/upload/4/4b/Volcano_Badge.png" width="90" />
 <br><br>
-<img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥_Volcano_Badge-FF6B35?style=for-the-badge&logoColor=white" />
 <br><br>
+<img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=flat-square&logo=coursera&logoColor=white" />
+<br>
 <b>Neural Networks & DL</b>
 <br>
-<sub>Deep Learning Specialization</sub>
+<sub>🔥 Deep Learning Specialist</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="60" />
+<td align="center" width="20%">
+<img src="https://archives.bulbagarden.net/media/upload/a/ab/Soul_Badge.png" width="90" />
 <br><br>
-<img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/💜_Soul_Badge-9370DB?style=for-the-badge&logoColor=white" />
 <br><br>
-<b>Published Research</b>
+<img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
 <br>
-<sub>ICIT 2024 • IEEE Xplore</sub>
+<b>Published Researcher</b>
+<br>
+<sub>💜 Research Champion</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60" />
+<td align="center" width="20%">
+<img src="https://archives.bulbagarden.net/media/upload/5/5f/Marsh_Badge.png" width="90" />
 <br><br>
-<img src="https://img.shields.io/badge/GIKI-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠_Marsh_Badge-F75C7E?style=for-the-badge&logoColor=white" />
 <br><br>
-<b>BS in AI</b>
+<img src="https://img.shields.io/badge/GIKI-0078D4?style=flat-square&logo=microsoft-academic&logoColor=white" />
 <br>
-<sub>Artificial Intelligence Graduate</sub>
+<b>BS in AI Graduate</b>
+<br>
+<sub>🧠 AI Intelligence Master</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://archives.bulbagarden.net/media/upload/f/fd/Earth_Badge.png" width="90" />
+<br><br>
+<img src="https://img.shields.io/badge/🌍_Earth_Badge-8B4513?style=for-the-badge&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Industry-00D9FF?style=flat-square&logo=building&logoColor=white" />
+<br>
+<b>Data Engineer</b>
+<br>
+<sub>🌍 Production Expert</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Elite Four Achievement -->
+<table>
+<tr>
+<td align="center" width="16.6%">
+<img src="https://archives.bulbagarden.net/media/upload/9/90/Boulder_Badge.png" width="70" />
+<br>
+<sub><b>Boulder Badge</b></sub>
+<br>
+<sub>💪 99% ML Accuracy</sub>
+</td>
+<td align="center" width="16.6%">
+<img src="https://archives.bulbagarden.net/media/upload/9/95/Cascade_Badge.png" width="70" />
+<br>
+<sub><b>Cascade Badge</b></sub>
+<br>
+<sub>💧 50% Automation</sub>
+</td>
+<td align="center" width="16.6%">
+<img src="https://archives.bulbagarden.net/media/upload/0/04/Rainbow_Badge.png" width="70" />
+<br>
+<sub><b>Rainbow Badge</b></sub>
+<br>
+<sub>🌈 60% Efficiency</sub>
+</td>
+<td align="center" width="16.6%">
+<img src="https://archives.bulbagarden.net/media/upload/c/cd/Glacier_Badge.png" width="70" />
+<br>
+<sub><b>Glacier Badge</b></sub>
+<br>
+<sub>❄️ 90% Resolution</sub>
+</td>
+<td align="center" width="16.6%">
+<img src="https://archives.bulbagarden.net/media/upload/c/c9/Fog_Badge.png" width="70" />
+<br>
+<sub><b>Fog Badge</b></sub>
+<br>
+<sub>🌫️ 85% STT Accuracy</sub>
+</td>
+<td align="center" width="16.6%">
+<img src="https://archives.bulbagarden.net/media/upload/c/c4/Rising_Badge.png" width="70" />
+<br>
+<sub><b>Rising Badge</b></sub>
+<br>
+<sub>☀️ IEEE Published</sub>
 </td>
 </tr>
 </table>

@@ -7,7 +7,7 @@
 <img align="left" height="180" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix" />
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
 
-<br><br><br><br><br><br><br>
+<br clear="both"/><br>
 
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+AI+Graduate;Building+Intelligence+into+Data+Pipelines;99%25+ML+Accuracy+%7C+60%25+Efficiency+Boost;Transforming+Data+Chaos+into+Business+Clarity;Published+Researcher+%7C+DataCamp+Certified" alt="Typing SVG" />
@@ -116,7 +116,7 @@ Currently Exploring:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
@@ -127,7 +127,7 @@ Currently Exploring:
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL_Pipelines-0078D4?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=dynamics365&logoColor=white" />
 </p>
 
 ### 📊 Business Intelligence
@@ -178,24 +178,16 @@ Currently Exploring:
 
 <div align="center">
 
-<!-- Material UI Style Cards -->
+<!-- GitHub Stats Cards -->
 <table>
 <tr>
 <td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/📈_GitHub_Performance-0D1117?style=for-the-badge" />
-
-<br><br>
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=false&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=1a1b27&border_radius=15&include_all_commits=true&border_color=2f3136" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/🔥_Contribution_Streak-0D1117?style=for-the-badge" />
-
-<br><br>
-
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&hide_border=false&background=1a1b27&stroke=FF6D00&ring=FFD700&fire=FF6D00&currStreakLabel=FFD700&border_radius=15&border=2f3136" alt="GitHub Streak" />
 
 </td>
@@ -204,38 +196,24 @@ Currently Exploring:
 
 <br>
 
-<!-- Second Row with Material Design -->
+<!-- Second Row -->
 <table>
 <tr>
 <td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/💻_Top_Languages-0D1117?style=for-the-badge" />
-
-<br><br>
-
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&hide_border=false&title_color=FF6D00&text_color=c9d1d9&bg_color=1a1b27&langs_count=8&border_radius=15&border_color=2f3136" alt="Top Languages" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/🏆_Achievement_Unlocked-0D1117?style=for-the-badge" />
+**🏆 Achievement Highlights**
 
-<br><br>
-
-<table width="100%" style="background-color: #1a1b27; border-radius: 15px; padding: 20px;">
-<tr><td>
-
-<p align="left" style="padding: 15px; line-height: 2.2;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="25" height="25" /> <b>P1:</b> 99% ML Accuracy<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/2nd%20Place%20Medal.png" width="25" height="25" /> <b>P2:</b> 60% Efficiency Boost<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/3rd%20Place%20Medal.png" width="25" height="25" /> <b>P3:</b> 50% Automation Speed<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chequered%20Flag.png" width="25" height="25" /> <b>Published:</b> IEEE Research Paper<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" height="25" /> <b>Fastest Lap:</b> 90% Query Resolution<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" height="25" /> <b>Pole Position:</b> DataCamp Certified
-</p>
-
-</td></tr>
-</table>
+- 🥇 **99% ML Accuracy**
+- 🥈 **60% Efficiency Boost**  
+- 🥉 **50% Automation Speed**
+- 🏁 **IEEE Research Paper**
+- ⚡ **90% Query Resolution**
+- 🔥 **DataCamp Certified**
 
 </td>
 </tr>
@@ -243,174 +221,44 @@ Currently Exploring:
 
 <br>
 
-<!-- Material UI Trophy Section -->
-<img src="https://img.shields.io/badge/🏆_Trophy_Collection-0D1117?style=for-the-badge" />
-
-<br><br>
-
+<!-- Trophy Section -->
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=nord&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
 
 <br><br>
 
-<!-- Detailed Metrics Cards with Material Design -->
-<img src="https://img.shields.io/badge/📊_Detailed_Activity_Metrics-0D1117?style=for-the-badge" />
-
-<br><br>
-
-<table>
-<tr>
-<td width="33%" align="center" style="padding: 20px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" height="60" />
-
-<br><br>
-
-**🎯 Total Contributions**
-
-<br>
-
-<img src="https://img.shields.io/badge/Contributions-1000%2B-FF6D00?style=for-the-badge&labelColor=1a1b27&logo=github" />
-
-<br><br>
-
-📅 **Active Days**: Consistent<br>
-⭐ **Quality**: High Impact<br>
-🎨 **Code Style**: Clean
-
-</td>
-<td width="33%" align="center" style="padding: 20px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" height="60" />
-
-<br><br>
-
-**📈 Code Frequency**
-
-<br>
-
-<img src="https://img.shields.io/badge/Commits-Active-FFD700?style=for-the-badge&labelColor=1a1b27&logo=git" />
-
-<br><br>
-
-💻 **Languages**: Python, SQL<br>
-🔥 **Focus**: Data Engineering<br>
-⚡ **Productivity**: High
-
-</td>
-<td width="33%" align="center" style="padding: 20px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="60" height="60" />
-
-<br><br>
-
-**🌟 Repository Stats**
-
-<br>
-
-<img src="https://img.shields.io/badge/Projects-4%2B_Major-00D9FF?style=for-the-badge&labelColor=1a1b27&logo=stack-overflow" />
-
-<br><br>
-
-📦 **Projects**: Active<br>
-🔧 **Maintained**: Daily<br>
-🚀 **Innovation**: Cutting Edge
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Contribution Graph with Material Design -->
-<img src="https://img.shields.io/badge/🏎️_365_Day_Race_Track-0D1117?style=for-the-badge" />
-
-<br><br>
-
+<!-- Contribution Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=Annual%20Contribution%20Activity&bg_color=1a1b27&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=false&border_radius=15" />
 
 <br><br>
 
-<!-- Performance Metrics with Material Icons -->
-<img src="https://img.shields.io/badge/🎯_Performance_Metrics-0D1117?style=for-the-badge" />
-
-<br><br>
-
+<!-- Performance Metrics -->
 <table>
 <tr>
-<td width="25%" align="center" style="padding: 15px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="80" height="80" />
-
-<br><br>
-
+<td width="25%" align="center">
+<br>
 <img src="https://img.shields.io/badge/ML_Accuracy-99%25-success?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" />
-
 <br>
-
 <sub><b>Machine Learning</b></sub>
-
 </td>
-<td width="25%" align="center" style="padding: 15px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" height="80" />
-
-<br><br>
-
+<td width="25%" align="center">
+<br>
 <img src="https://img.shields.io/badge/Automation-50%25_Faster-orange?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1b27" />
-
 <br>
-
 <sub><b>Process Optimization</b></sub>
-
 </td>
-<td width="25%" align="center" style="padding: 15px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80" height="80" />
-
-<br><br>
-
+<td width="25%" align="center">
+<br>
 <img src="https://img.shields.io/badge/Efficiency-60%25_Boost-blue?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=1a1b27" />
-
 <br>
-
 <sub><b>Reporting Speed</b></sub>
-
 </td>
-<td width="25%" align="center" style="padding: 15px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" height="80" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Resolution-90%25-purple?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1b27" />
-
+<td width="25%" align="center">
 <br>
-
+<img src="https://img.shields.io/badge/Resolution-90%25-purple?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1b27" />
+<br>
 <sub><b>Query Resolution</b></sub>
-
 </td>
 </tr>
-</table>
-
-<br>
-
-<!-- Coding Activity with Material Design -->
-<img src="https://img.shields.io/badge/⏱️_Weekly_Coding_Activity-0D1117?style=for-the-badge" />
-
-<br><br>
-
-<table width="100%" style="background-color: #1a1b27; border-radius: 15px;">
-<tr><td>
-
-```text
-Python       ████████████████░░░░░   75.2%
-SQL          ████████░░░░░░░░░░░░░   35.8%
-PySpark      ██████░░░░░░░░░░░░░░░   28.4%
-YAML         ███░░░░░░░░░░░░░░░░░░   12.6%
-Markdown     ██░░░░░░░░░░░░░░░░░░░    8.3%
-```
-
-</td></tr>
 </table>
 
 <br>
@@ -429,12 +277,12 @@ Markdown     ██░░░░░░░░░░░░░░░░░░░    
 <tr>
 <td width="50%">
 
-### 🎥 Transforming Virtual Meetings Using AI
+### 🎥 AI-Powered Virtual Meetings
+
 *Final Year Project*
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Accuracy-85%25-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Level-Expert-orange?style=flat-square" />
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-85%25-blue?style=flat-square)
 
 **AI-powered bilingual speech-to-text system**
 
@@ -448,12 +296,12 @@ Markdown     ██░░░░░░░░░░░░░░░░░░░    
 </td>
 <td width="50%">
 
-### 💳 ML-Based Fraudulent Detection System
+### 💳 Financial Fraud Detection
+
 *Published Research*
 
-<img src="https://img.shields.io/badge/Status-Published-gold?style=flat-square" />
-<img src="https://img.shields.io/badge/Accuracy-99%25-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Level-Master-red?style=flat-square" />
+![Status](https://img.shields.io/badge/Status-Published-gold?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-99%25-blue?style=flat-square)
 
 **Advanced fraud detection for financial transactions**
 
@@ -464,20 +312,17 @@ Markdown     ██░░░░░░░░░░░░░░░░░░░    
 
 **Tech Stack:** Python • Scikit-Learn • CatBoost • Pandas
 
-📄 [Read Paper](#) | ⭐ [View Code](#)
-
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 📺 YouTube Clickbait Impact Analysis
+### 📺 YouTube Clickbait Analysis
+
 *ML & AutoML Project*
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Accuracy-86%25-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Level-Advanced-orange?style=flat-square" />
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-86%25-green?style=flat-square)
 
 **Predicting video performance using ML & AutoML**
 
@@ -492,11 +337,11 @@ Markdown     ██░░░░░░░░░░░░░░░░░░░    
 <td width="50%">
 
 ### 🤖 HR Medical Policy Chatbot
+
 *RAG-Based AI Assistant*
 
-<img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Resolution-90%25-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Level-Expert-purple?style=flat-square" />
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
+![Resolution](https://img.shields.io/badge/Resolution-90%25-blue?style=flat-square)
 
 **Intelligent chatbot for HR query automation**
 
@@ -519,39 +364,38 @@ Markdown     ██░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-<!-- Pokémon Gym Badge Collection -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Achievement+Badges+Collected!+⚡🔥💧;Elite+Level+Unlocked!+🏆" alt="Badges" />
 
 <br><br>
 
-<!-- Main Badges -->
+<!-- Certification Badges -->
 <table>
   <tr>
     <td align="center" width="25%">
-      <img height="100" src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png"/><br>
+      <img height="80" src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png"/><br>
       <img src="https://img.shields.io/badge/⚡_Thunder_Badge-FFD700?style=for-the-badge&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" /><br>
       <b>Associate Data Engineer</b><br>
       <sub>Elite Data Engineering</sub>
     </td>
     <td align="center" width="25%">
-      <img height="100" src="https://img.icons8.com/fluency/96/000000/fire-element.png"/><br>
+      <img height="80" src="https://img.icons8.com/fluency/96/000000/fire-element.png"/><br>
       <img src="https://img.shields.io/badge/🔥_Volcano_Badge-FF6D00?style=for-the-badge&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=flat-square&logo=coursera&logoColor=white" /><br>
       <b>Neural Networks & DL</b><br>
       <sub>Deep Learning Master</sub>
     </td>
     <td align="center" width="25%">
-      <img height="100" src="https://img.icons8.com/fluency/96/000000/earth-planet.png"/><br>
+      <img height="80" src="https://img.icons8.com/fluency/96/000000/earth-planet.png"/><br>
       <img src="https://img.shields.io/badge/🌍_Earth_Badge-8B4513?style=for-the-badge&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" /><br>
       <b>Published Research</b><br>
       <sub>Research Champion</sub>
     </td>
     <td align="center" width="25%">
-      <img height="100" src="https://img.icons8.com/fluency/96/000000/brain.png"/><br>
+      <img height="80" src="https://img.icons8.com/fluency/96/000000/brain.png"/><br>
       <img src="https://img.shields.io/badge/🧠_Mind_Badge-9370DB?style=for-the-badge&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/GIKI-0078D4?style=flat-square&logo=graduation-cap&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GIKI-0078D4?style=flat-square&logo=graduationcap&logoColor=white" /><br>
       <b>BS in AI</b><br>
       <sub>AI Graduate</sub>
     </td>
@@ -560,14 +404,12 @@ Markdown     ██░░░░░░░░░░░░░░░░░░░    
 
 <br>
 
-<!-- Achievement Stats -->
 ### 🏅 Achievement Stats
 
 ```
 ═══════════════════════════════════════════════════════════
 Level: Elite Professional | Rank: S-Class Engineer
 ═══════════════════════════════════════════════════════════
-
 Core Stats:
   🎯 Projects Completed:       4 Major Systems
   ⚡ ML Accuracy:              99% Peak Performance

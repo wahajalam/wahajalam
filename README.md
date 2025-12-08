@@ -1,316 +1,334 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=250&section=header&text=Wahaj%20Alam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20AI%20Graduate&descAlignY=58&descSize=25" />
-
-<!-- Animated Code Matrix -->
-<img align="left" height="180" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix" />
-<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
-
-<br clear="both"/><br>
-
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+AI+Graduate;Building+Intelligence+into+Data+Pipelines;99%25+ML+Accuracy+%7C+60%25+Efficiency+Boost;Transforming+Data+Chaos+into+Business+Clarity;Published+Researcher+%7C+DataCamp+Certified" alt="Typing SVG" />
-
-<br>
-
-<!-- Social Badges with Custom Styling -->
-<p align="center">
-  <a href="https://linkedin.com/in/wahaj-alam-68a784250">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="https://github.com/wahajalam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-  <a href="mailto:wahaj.alam2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
-  </a>
-</p>
-
-<!-- Profile Stats with Enhanced Design -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahajalam&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/wahajalam?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0D1117&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/wahajalam?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github" alt="stars" />
-</p>
-
-<br>
-
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Dynamic Header Banner with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=Wahaj%20Alam&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20Innovator%20%7C%20ML%20Researcher&descAlignY=51&descSize=20" />
 
 </div>
 
+<!-- Animated Welcome Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Data+Engineer+%7C+AI+Graduate;Building+Intelligent+Data+Pipelines+%F0%9F%9A%80;99%25+ML+Accuracy+%7C+Published+Researcher;Transforming+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Profile Stats Banner -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wahajalam&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/wahajalam?label=Followers&style=flat-square&color=8b5cf6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/wahajalam?label=Stars&style=flat-square&color=ec4899" alt="stars" />
+</p>
+
+<!-- Social Connect Section -->
+<p align="center">
+  <a href="https://linkedin.com/in/wahaj-alam-68a784250">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/wahajalam">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:wahaj.alam2000@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<!-- About Me Section with Gradient Background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="35" /> About Me
+
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 
 ```python
 class WahajAlam:
     def __init__(self):
         self.name = "Wahaj Alam"
-        self.role = "Data Engineer"
-        self.education = "BS in AI @ GIKI"
-        self.company = "Kaizen Paint Pakistan"
+        self.role = "Data Engineer 📊"
+        self.education = "BS in AI @ GIKI 🎓"
+        self.company = "Kaizen Paint Pakistan 🏢"
         self.location = "Lahore, Pakistan 🇵🇰"
+        self.passion = "Building ML Solutions 🤖"
         
     def current_focus(self):
-        return [
-            "🔥 Building scalable ETL pipelines",
-            "⚡ Optimizing SQL Server queries",
-            "📊 Creating Power BI dashboards",
-            "🤖 Exploring LLMs and RAG systems"
-        ]
+        return {
+            "🔥 ETL Pipelines": "Scalable & Efficient",
+            "⚡ SQL Optimization": "Performance Tuning",
+            "📊 Power BI": "Interactive Dashboards",
+            "🤖 LLMs & RAG": "Cutting-edge AI"
+        }
     
     def achievements(self):
         return {
-            "accuracy": "99% in ML models",
-            "automation": "50% reduction in manual work",
-            "efficiency": "60% boost in reporting",
-            "published": "ICIT 2024 (IEEE)"
+            "🎯 ML Accuracy": "99%",
+            "⚡ Automation": "50% faster",
+            "📈 Efficiency": "60% boost",
+            "📜 Published": "ICIT 2024 (IEEE)"
         }
+    
+    def motto(self):
+        return "Turning data chaos into business clarity! 💎"
 ```
 
-<br><br>
+<br clear="left"/>
 
+<!-- Quick Highlights Collapsible -->
 <details>
-<summary><b>🎯 Quick Highlights</b></summary>
+<summary>
+  <b>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" />
+    Quick Highlights
+  </b>
+</summary>
 <br>
 
-```yaml
-Current Role: Data Engineer @ Kaizen Paint Pakistan
-Education: BS Artificial Intelligence (GIKI, 2021-2025)
-Certifications: Associate Data Engineer (DataCamp) | Neural Networks (DeepLearning.AI)
+<table>
+<tr>
+<td>
 
-Recent Achievements:
-  - 🚀 Reduced manual data checks by 50%
-  - 📈 Boosted reporting efficiency by 60%
-  - 🏆 99% accuracy in fraud detection model
-  - 📄 Published research in IEEExplore
-  - 🤖 Built AI chatbot with 90% query resolution
-  - 🎯 85% accuracy in bilingual speech-to-text
-
-Currently Exploring:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - Advanced Analytics & AutoML
-  - Real-time Data Streaming
+**🎯 Current Role**
 ```
+Data Engineer @ Kaizen Paint Pakistan
+```
+
+</td>
+<td>
+
+**📚 Education**
+```
+BS Artificial Intelligence
+GIKI (2021-2025)
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🏆 Recent Wins**
+- 🚀 50% reduction in manual work
+- 📈 60% boost in reporting efficiency
+- 🤖 90% query resolution rate
+- 📄 IEEE published research
+
+</td>
+<td>
+
+**🔬 Currently Exploring**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation
+- Advanced Analytics & AutoML
+- Real-time Data Streaming
+
+</td>
+</tr>
+</table>
+
+**🎖️ Certifications:** DataCamp Associate Data Engineer • DeepLearning.AI Neural Networks
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack & Tools
+<!-- Tech Stack Section with Beautiful Layout -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+<!-- Row 1: Languages -->
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><b>Python</b>
+</td>
+<td align="center" width="200">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+<br><b>SQL</b>
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="PySpark" width="65" height="65" />
+<br><b>PySpark</b>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
+<!-- Data Engineering Tools -->
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark" width="50" height="50" />
+<br><b>Spark</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Airflow" width="50" height="50" />
+<br><b>Airflow</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50" />
+<br><b>SQL Server</b>
+</td>
+<td align="center" width="150">
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="50" height="50" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50" />
+<br><b>Power BI</b>
+</td>
+</tr>
+</table>
 
-### 🔧 Data Engineering Stack
+<!-- ML/AI Tools -->
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" />
+<br><b>Scikit-learn</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+<br><b>Pandas</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
+<br><b>NumPy</b>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-0078D4?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=dynamics365&logoColor=white" />
-</p>
-
-### 📊 Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-### 🤖 Machine Learning & AI
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### 🧠 LLM & GenAI
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2O_AutoML-FFE600?style=for-the-badge&logo=h2o&logoColor=black" />
-</p>
-
-### 🛠️ Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
+<!-- Dev Tools -->
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+<br><b>VS Code</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" />
+<br><b>Jupyter</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+<br><b>Git</b>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50" />
+<br><b>Anaconda</b>
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 <br>
 
-## 📊 GitHub Stats & Analytics
+<!-- GitHub Stats with Modern Design -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<table>
-<tr>
-<td width="50%" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&count_private=true&hide_border=false&title_color=FF6D00&icon_color=FFD700&text_color=c9d1d9&bg_color=1a1b27&border_radius=15&include_all_commits=true&border_color=2f3136" alt="GitHub Stats" />
-
-</td>
-<td width="50%" align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&hide_border=false&background=1a1b27&stroke=FF6D00&ring=FFD700&fire=FF6D00&currStreakLabel=FFD700&border_radius=15&border=2f3136" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Second Row -->
-<table>
-<tr>
-<td width="50%" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&hide_border=false&title_color=FF6D00&text_color=c9d1d9&bg_color=1a1b27&langs_count=8&border_radius=15&border_color=2f3136" alt="Top Languages" />
-
-</td>
-<td width="50%" align="center">
-
-**🏆 Achievement Highlights**
-
-- 🥇 **99% ML Accuracy**
-- 🥈 **60% Efficiency Boost**  
-- 🥉 **50% Automation Speed**
-- 🏁 **IEEE Research Paper**
-- ⚡ **90% Query Resolution**
-- 🔥 **DataCamp Certified**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Trophy Section -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=nord&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wahajalam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wahajalam&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" />
 
 <br><br>
 
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&custom_title=Annual%20Contribution%20Activity&bg_color=1a1b27&color=FF6D00&line=FFD700&point=FFFFFF&area=true&hide_border=false&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahajalam&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 <br><br>
 
-<!-- Performance Metrics -->
-<table>
-<tr>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/ML_Accuracy-99%25-success?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" />
-<br>
-<sub><b>Machine Learning</b></sub>
-</td>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/Automation-50%25_Faster-orange?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1b27" />
-<br>
-<sub><b>Process Optimization</b></sub>
-</td>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/Efficiency-60%25_Boost-blue?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=1a1b27" />
-<br>
-<sub><b>Reporting Speed</b></sub>
-</td>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/Resolution-90%25-purple?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1b27" />
-<br>
-<sub><b>Query Resolution</b></sub>
-</td>
-</tr>
-</table>
+<!-- Performance Metrics Cards -->
+<img width="23%" src="https://img.shields.io/badge/ML%20Accuracy-99%25-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
+<img width="23%" src="https://img.shields.io/badge/Automation-50%25%20Faster-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
+<img width="23%" src="https://img.shields.io/badge/Efficiency-60%25%20Boost-4ECDC4?style=for-the-badge&logo=trending-up&logoColor=white" />
+<img width="23%" src="https://img.shields.io/badge/Resolution-90%25-A78BFA?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Total%20Coding%20Time-1200%2B%20Hours-FF6D00?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1a1b27" />
+<!-- Trophy Display -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=wahajalam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 <br>
 
-## 🚀 Featured Projects
+<!-- Featured Projects Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Featured Projects
 
+<div align="center">
+
+<!-- Project 1 -->
+<a href="#">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahajalam&repo=virtual-meetings-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
+</a>
+
+<!-- Project 2 -->
+<a href="#">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahajalam&repo=fraud-detection-ml&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Project Details Grid -->
 <table>
 <tr>
 <td width="50%">
 
 ### 🎥 AI-Powered Virtual Meetings
+<img src="https://img.shields.io/badge/Status-Completed-00D9FF?style=flat-square&logo=checkmarx" />
+<img src="https://img.shields.io/badge/Accuracy-85%25-8B5CF6?style=flat-square&logo=target" />
 
-*Final Year Project*
+**Bilingual speech-to-text with automated summaries**
 
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Accuracy-85%25-blue?style=flat-square)
+- 🌐 English & Urdu STT using **SeamlessM4T**
+- 🎯 85% accuracy in real-time transcription
+- 🤖 LLM-powered meeting minutes generation
+- 📝 Advanced NLP pipeline integration
 
-**AI-powered bilingual speech-to-text system**
-
-- 🔥 Custom STT (English/Urdu) using **SeamlessM4T**
-- ⚡ 85% accuracy in real-time transcription
-- 🌀 Automated meeting summaries with LLM
-- 🦊 Advanced NLP pipeline integration
-
-**Tech Stack:** Python • SeamlessM4T • LLMs • NLP
+**Stack:** `Python` `SeamlessM4T` `LLMs` `NLP` `TensorFlow`
 
 </td>
 <td width="50%">
 
 ### 💳 Financial Fraud Detection
+<img src="https://img.shields.io/badge/Status-Published-FFD700?style=flat-square&logo=ieee" />
+<img src="https://img.shields.io/badge/Accuracy-99%25-00D9FF?style=flat-square&logo=target" />
 
-*Published Research*
+**ML-based fraud detection for financial transactions**
 
-![Status](https://img.shields.io/badge/Status-Published-gold?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Accuracy-99%25-blue?style=flat-square)
-
-**Advanced fraud detection for financial transactions**
-
-- 🔥 **99% accuracy** with ensemble methods
-- 📜 Published at **ICIT 2024** (IEEExplore)
-- ⚡ CatBoost, Random Forest, Decision Trees
+- 🏆 **99% accuracy** with ensemble methods
+- 📜 Published at **ICIT 2024** (IEEE Xplore)
+- ⚡ Real-time transaction monitoring
 - 🎯 Advanced feature engineering
 
-**Tech Stack:** Python • Scikit-Learn • CatBoost • Pandas
+**Stack:** `Python` `CatBoost` `Random Forest` `Scikit-learn`
 
 </td>
 </tr>
@@ -318,161 +336,173 @@ Currently Exploring:
 <td width="50%">
 
 ### 📺 YouTube Clickbait Analysis
+<img src="https://img.shields.io/badge/Status-Completed-00D9FF?style=flat-square&logo=checkmarx" />
+<img src="https://img.shields.io/badge/Accuracy-86%25-8B5CF6?style=flat-square&logo=target" />
 
-*ML & AutoML Project*
+**ML & AutoML for content engagement prediction**
 
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Accuracy-86%25-green?style=flat-square)
+- 📊 Analyzed 4,000+ videos using YouTube API
+- 🎯 86% accuracy with Logistic Regression
+- 🤖 84% accuracy using H2O AutoML
+- 💡 Data-driven content optimization insights
 
-**Predicting video performance using ML & AutoML**
-
-- 🌀 Scraped 4,000+ videos using YouTube API
-- ⚡ 86% accuracy with Logistic Regression
-- 🔥 84% accuracy with H2O AutoML
-- 🎯 Data-driven insights on clickbait patterns
-
-**Tech Stack:** Python • H2O AutoML • YouTube API • Pandas
+**Stack:** `Python` `H2O AutoML` `YouTube API` `Pandas`
 
 </td>
 <td width="50%">
 
-### 🤖 HR Medical Policy Chatbot
+### 🤖 HR Policy Chatbot
+<img src="https://img.shields.io/badge/Status-Deployed-00FF7F?style=flat-square&logo=rocket" />
+<img src="https://img.shields.io/badge/Resolution-90%25-8B5CF6?style=flat-square&logo=checkmarx" />
 
-*RAG-Based AI Assistant*
+**RAG-based intelligent assistant for HR automation**
 
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
-![Resolution](https://img.shields.io/badge/Resolution-90%25-blue?style=flat-square)
+- 💬 90% query resolution success rate
+- 📈 Handles 1,000+ monthly queries
+- ⚡ 50% reduction in HR workload
+- 🔍 FAISS vector database integration
 
-**Intelligent chatbot for HR query automation**
-
-- 🔥 90% query resolution success rate
-- ⚡ Handles 1,000+ monthly queries
-- 🌀 50% reduction in HR workload
-- 🦊 FAISS vector DB + Google Gemini LLM
-
-**Tech Stack:** LangChain • FAISS • Google Gemini • RAG
+**Stack:** `LangChain` `FAISS` `Google Gemini` `RAG`
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 <br>
 
-## 🎓 Certifications & Achievements
+<!-- Certifications Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Certifications & Achievements
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Achievement+Badges+Collected!+⚡🔥💧;Elite+Level+Unlocked!+🏆" alt="Badges" />
-
-<br><br>
-
-<!-- Certification Badges -->
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <img height="80" src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png"/><br>
-      <img src="https://img.shields.io/badge/⚡_Thunder_Badge-FFD700?style=for-the-badge&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" /><br>
-      <b>Associate Data Engineer</b><br>
-      <sub>Elite Data Engineering</sub>
-    </td>
-    <td align="center" width="25%">
-      <img height="80" src="https://img.icons8.com/fluency/96/000000/fire-element.png"/><br>
-      <img src="https://img.shields.io/badge/🔥_Volcano_Badge-FF6D00?style=for-the-badge&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=flat-square&logo=coursera&logoColor=white" /><br>
-      <b>Neural Networks & DL</b><br>
-      <sub>Deep Learning Master</sub>
-    </td>
-    <td align="center" width="25%">
-      <img height="80" src="https://img.icons8.com/fluency/96/000000/earth-planet.png"/><br>
-      <img src="https://img.shields.io/badge/🌍_Earth_Badge-8B4513?style=for-the-badge&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" /><br>
-      <b>Published Research</b><br>
-      <sub>Research Champion</sub>
-    </td>
-    <td align="center" width="25%">
-      <img height="80" src="https://img.icons8.com/fluency/96/000000/brain.png"/><br>
-      <img src="https://img.shields.io/badge/🧠_Mind_Badge-9370DB?style=for-the-badge&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/GIKI-0078D4?style=flat-square&logo=graduationcap&logoColor=white" /><br>
-      <b>BS in AI</b><br>
-      <sub>AI Graduate</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="60" />
+<br><br>
+<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+<br><br>
+<b>Associate Data Engineer</b>
+<br>
+<sub>ETL • Data Pipelines • SQL</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="60" />
+<br><br>
+<img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+<br><br>
+<b>Neural Networks & DL</b>
+<br>
+<sub>Deep Learning Specialization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="60" />
+<br><br>
+<img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+<br><br>
+<b>Published Research</b>
+<br>
+<sub>ICIT 2024 • IEEE Xplore</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60" />
+<br><br>
+<img src="https://img.shields.io/badge/GIKI-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
+<br><br>
+<b>BS in AI</b>
+<br>
+<sub>Artificial Intelligence Graduate</sub>
+</td>
+</tr>
 </table>
 
 <br>
 
-### 🏅 Achievement Stats
+<!-- Achievement Stats Box -->
+<table>
+<tr>
+<td>
 
 ```
-═══════════════════════════════════════════════════════════
-Level: Elite Professional | Rank: S-Class Engineer
-═══════════════════════════════════════════════════════════
-Core Stats:
-  🎯 Projects Completed:       4 Major Systems
-  ⚡ ML Accuracy:              99% Peak Performance
-  🔥 Automation Boost:         50% Efficiency Gain
-  💨 Reporting Speed:          60% Faster Insights
-  📜 Publications:             1 IEEE Paper (ICIT 2024)
-  🏆 Certifications:           DataCamp + DeepLearning.AI
-  ⚡ Badges Collected:         4/8 Elite Badges
-  
-Power Levels:
-  HP:     ████████████████████████ 200/200  (Max)
-  Attack: ████████████████████████ 99/100   (ML Accuracy)
-  Defense:███████████████████████  90/100   (Error Handling)
-  Speed:  ███████████████████████  92/100   (Automation)
-  Special:████████████████████████ 95/100   (Innovation)
-  
-Achievement Path:
-  Intern → Data Engineer → AI Specialist → Future Leader
-═══════════════════════════════════════════════════════════
+╔══════════════════════════════════════════════════════╗
+║          🏆 Elite Professional Stats 🏆             ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  🎯 Projects Completed:      4 Major Systems        ║
+║  ⚡ ML Peak Accuracy:        99% Performance        ║
+║  🔥 Automation Gain:         50% Faster             ║
+║  💨 Reporting Speed:         60% Boost              ║
+║  📜 Publications:            IEEE Research Paper    ║
+║  🎓 Certifications:          DataCamp + DL.AI       ║
+║  📊 Total Coding Hours:      1,200+                 ║
+║                                                      ║
+║  Power Levels:                                      ║
+║  ├─ ML Accuracy:    ████████████████████ 99/100    ║
+║  ├─ Automation:     ████████████████████ 92/100    ║
+║  ├─ Innovation:     ████████████████████ 95/100    ║
+║  └─ Problem Solving:████████████████████ 90/100    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 <br>
 
-## 💬 Let's Connect!
+<!-- Connect Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" /> Let's Connect!
 
 <div align="center">
 
 <a href="https://linkedin.com/in/wahaj-alam-68a784250">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/wahajalam">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:wahaj.alam2000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-### 💭 Daily Motivation
+### 💭 Daily Inspiration
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+<br>
+
+### ✨ *"Turning data chaos into business clarity, one pipeline at a time"* ✨
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" />
 
 <div align="center">
-
-### 💻 *"Turning data chaos into business clarity, one pipeline at a time"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=100&section=footer" />
-
-**⭐ Star my repositories if you find them interesting!**
+  
+**⭐ Star my repositories if you find them interesting! ⭐**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=wahajalam&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Made%20with-❤️-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Thank%20You-For%20Visiting-6366F1?style=for-the-badge" />
 
 </div>

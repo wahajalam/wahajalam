@@ -531,8 +531,4 @@ Check out my code
 
 <div align="center">
 
-**Thanks for stopping by!** ⭐
-
-<img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" />
-
 </div>

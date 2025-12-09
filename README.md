@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header Banner with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=Wahaj%20Alam&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20Innovator%20%7C%20ML%20Researcher&descAlignY=51&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=Wahaj%20Alam&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20%7C%20ML%20Researcher&descAlignY=51&descSize=20" />
 
 </div>
 

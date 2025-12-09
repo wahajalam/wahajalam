@@ -575,8 +575,6 @@ GIKI (2021-2025)
 **⭐ Star my repositories if you find them interesting! ⭐**
 
 <br>
-
-<img src="https://img.shields.io/badge/Made%20with-❤️-FF69B4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Thank%20You-For%20Visiting-6366F1?style=for-the-badge" />
 
 </div>

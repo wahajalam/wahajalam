@@ -35,12 +35,16 @@
 
 
 <div align="center">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wahajalam&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+  <h1>📊 GitHub Stats:</h1>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="wahajalam's GitHub Stats" />
+  <br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=wahajalam&theme=dracula&hide_border=false" alt="wahajalam's GitHub Streak" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="wahajalam's Top Languages" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

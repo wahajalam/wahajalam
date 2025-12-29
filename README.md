@@ -35,9 +35,8 @@
 
 
 <div align="center">
-  <h1>📊 GitHub Stats:</h1>
+  <h1> GitHub Stats:</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="wahajalam's GitHub Stats" />
   <br/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=wahajalam&theme=dracula&hide_border=false" alt="wahajalam's GitHub Streak" />

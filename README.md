@@ -3,7 +3,7 @@
 </div>
 
 
-## 🌐 Socials:
+## Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/wahaj-alam-68a784250/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="41" alt="linkedin logo" />
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />

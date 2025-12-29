@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <h1> GitHub Stats:</h1>
+  <h1> Github Stats:</h1>
 
   <br/>
 
@@ -44,7 +44,7 @@
 
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

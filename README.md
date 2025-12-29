@@ -44,11 +44,16 @@
 
 </div>
 
+<div align="center">
+
 ### ✍️ Quote Of The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wahajalam&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<img src="https://visitcount.itsvg.in/api?id=wahajalam&icon=0&color=11" alt="Profile Views" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div>

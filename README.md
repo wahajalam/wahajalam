@@ -3,6 +3,10 @@
 </div>
 
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wahajalam.wahajalam&left_color=rebeccapurple&right_color=darkblue"  />
+</div>
+
 ## Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/wahaj-alam-68a784250/" target="_blank">

@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" />
 </div>
 
+<img src="https://visitcount.itsvg.in/api?id=wahajalam&icon=0&color=11" alt="Profile Views" />
+
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/wahaj-alam-68a784250/" target="_blank">
@@ -48,7 +50,6 @@
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=wahajalam&icon=0&color=11" alt="Profile Views" />
 
 </div>
 

@@ -49,3 +49,6 @@
 [![](https://visitcount.itsvg.in/api?id=wahajalam&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=115&section=footer&reversal=false&fontSize=73&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>

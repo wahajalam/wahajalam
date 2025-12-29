@@ -43,7 +43,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=wahajalam&theme=dracula&hide_border=false" alt="wahajalam's GitHub Streak" />
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="wahajalam's Top Languages" />
 </div>
 
 ### ✍️ Random Dev Quote

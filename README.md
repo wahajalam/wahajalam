@@ -3,7 +3,7 @@
 </div>
 
 
-## Socials:
+# Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/wahaj-alam-68a784250/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="41" alt="linkedin logo" />
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" />
 </div>
 
-## Github Stats:
+# Github Stats:
 <div align="center">
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=wahajalam&theme=dracula&hide_border=false" alt="GitHub Streak" />

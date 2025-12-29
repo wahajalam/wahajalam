@@ -33,13 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" />
 </div>
 
-## 📊 GitHub Stats:
+## Github Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=wahajalam&theme=dracula&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahajalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">

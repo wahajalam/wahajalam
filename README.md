@@ -1,5 +1,3 @@
-r>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wahaj.alam2000@gmail.com) 

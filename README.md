@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=wahajalam&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 <div align="center">

@@ -1,5 +1,4 @@
-# 💫 About Me:
-I’m currently working as a Data Engineer <br>Machine Learning , Generative AI, Natural Language Processing<br>
+r>
 
 
 ## 🌐 Socials:
